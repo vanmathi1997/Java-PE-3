@@ -14,11 +14,4 @@ public class MatrixAddition {
         }
         return c;
     }
-    public String check(int m,int n,int p,int q)
-    {
-        if(m==p&&n==q)
-        return "success";
-        else
-            return "failure";
     }
-}

@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d33b44be-95b6-4237-940b-c0c499b532f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Practice-Exercise-3/GenerateExceptionsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Practice-Exercise-3/GenerateExceptionsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ChessBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FirstAndLastDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstAndLastDay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GenerateExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GenerateExceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MatrixAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MatrixAddition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RemoveVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RemoveVowels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StudentGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StudentGrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/ChessBoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/ChessBoardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/ConsecutiveNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/ConsecutiveNumbersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/ExceptionHandlingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/ExceptionHandlingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/FirstAndLastDayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/FirstAndLastDayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/GenerateExceptionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/GenerateExceptionsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/MatrixAdditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/MatrixAdditionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/StudentGradeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/StudentGradeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,20 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/MatrixAddition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="240">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/MatrixAdditionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+            <state relative-caret-position="-150">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,8 +137,8 @@
         <option value="$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/StudentGrade.java" />
         <option value="$PROJECT_DIR$/src/main/test/StudentGradeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MatrixAddition.java" />
         <option value="$PROJECT_DIR$/src/main/test/MatrixAdditionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MatrixAddition.java" />
       </list>
     </option>
   </component>
@@ -521,20 +504,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MatrixAddition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/MatrixAdditionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+        <state relative-caret-position="-150">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MatrixAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
         </state>
       </provider>
     </entry>
