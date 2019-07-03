@@ -42,14 +42,14 @@ public class MatrixAdditionTest {
         assertEquals(expresult,result);
     }
     @Test
-            (expected=ArrayIndexOutOfBoundsException.class)
+            (expected=Exception.class)
     public void testArrayShouldReturnError()//test case for failing case of matrix addition
     {
 
         int a[][]= {{2,4},{3,5}};
         int b[][]= {{9,2},{1,4},{5,3}};
-        int[][] result=obj.addmatrix(3, 2, a, b);
-        int[][] expresult={{11,6},{4,9},{6,10}};
+        obj.addmatrix(3, 2, a, b);
+
 
     }
 

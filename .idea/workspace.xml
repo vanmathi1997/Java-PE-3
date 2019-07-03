@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d33b44be-95b6-4237-940b-c0c499b532f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/MatrixAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MatrixAddition.java" afterDir="false" />
-    </list>
+    <list default="true" id="d33b44be-95b6-4237-940b-c0c499b532f0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
