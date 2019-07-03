@@ -1,5 +1,5 @@
 public class GenerateExceptions {
-    public Exception displayException1() {
+    public Exception displayException1() {//method for NegativeArraySizeException
         Exception exception = null;
         try {
             int[] array = new int[-10];
@@ -9,7 +9,7 @@ public class GenerateExceptions {
         return exception;
     }
 
-    public Exception displayException2() {
+    public Exception displayException2() {//IndexOutOfBoundsException,
         Exception exception = null;
         try {
             int[] array = new int[2];
@@ -20,7 +20,7 @@ public class GenerateExceptions {
         return exception;
     }
 
-    public Exception displayException3() {
+    public Exception displayException3() {//NullPointerException.
         Exception exception = null;
         String value = null;
         try {

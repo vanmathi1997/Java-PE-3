@@ -14,19 +14,17 @@ public class GenerateExceptionsTest {
     @After
     public void teardown() {
         obj= null;
-
-
     }
 
-    @Test
+    @Test//Test case for NegativeArraySizeException
     public void testNegativeArraySizeException() {
         obj.displayException1();
     }
-    @Test
+    @Test//Test case for IndexOutOfBoundException
     public void testIndexOutOfBoundException() {
         obj.displayException2();
     }
-    @Test
+    @Test//Test case for NullPointerException
     public void testNullPointerException() {
         obj.displayException3();
     }

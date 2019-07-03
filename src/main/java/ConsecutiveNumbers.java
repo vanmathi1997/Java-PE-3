@@ -17,7 +17,7 @@ public class ConsecutiveNumbers {
             }
 
         }
-        if(count==num.length)
+        if(count==num.length)//checks if consecutive
         {
             return ("consecutive numbers");
         }

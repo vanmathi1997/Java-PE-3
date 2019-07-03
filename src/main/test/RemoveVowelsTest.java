@@ -17,14 +17,14 @@ public class RemoveVowelsTest {
         obj=null;
     }
     @Test
-    public void testShouldReturnWordsWithoutVowels()
+    public void testShouldReturnWordsWithoutVowels()//test case for hello
     {
 
         String result=obj.remove("hello");
         assertEquals("hll",result);
 
     }
-    @Test(expected = NullPointerException.class)
+    @Test(expected = NullPointerException.class)//test case for null
     public void testgivenNullShouldReturnNull()
     {
 
@@ -33,7 +33,7 @@ public class RemoveVowelsTest {
 
     }
     @Test
-    public void testgivenStringWithoutVowelShouldReturnSameString()
+    public void testgivenStringWithoutVowelShouldReturnSameString()//test case for words without vowel
     {
         String result=obj.remove("srcbnm");
         assertEquals("srcbnm",result);

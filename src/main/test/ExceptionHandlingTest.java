@@ -8,8 +8,8 @@ public class ExceptionHandlingTest {
     ExceptionHandling obj1,obj2;
     @Before
     public void setup() {
-        obj1= new ExceptionHandling("hello");
-        obj2= new ExceptionHandling("world");
+        obj1= new ExceptionHandling();
+        obj2= new ExceptionHandling();
 
     }
 
@@ -22,16 +22,16 @@ public class ExceptionHandlingTest {
 
     @Test
     public void testThrowExceptionForHello() {
-        String result=obj1.throwexception();
-        assertEquals(result,"hello");
+        String result=obj1.throwexception("hello");//test case for hello
+        assertEquals("helloreached finally",result);
 
     }
     @Test
     public void testThrowExceptionForWorld() {
-        String result=obj2.throwexception();
-        assertEquals(result,"world");
+        String result=obj2.throwexception("");//test case for empty string
+        assertEquals("reached finally",result);
 
     }
 
 
-}
+    }

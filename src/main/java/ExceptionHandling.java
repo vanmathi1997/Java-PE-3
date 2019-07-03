@@ -1,20 +1,22 @@
 public class ExceptionHandling {
 
     String msg="";
-    public ExceptionHandling(String msg){
+    public ExceptionHandling(){
 
     }
-    public String throwexception()
+    public String throwexception(String msg)
     {
+        String str;
         try {
             Exception e=new Exception();
+
             throw e;
         }
         catch(Exception e) {
-            return msg;
+            str=msg;
         }
         finally {
-            System.out.println("reached finally");;
+            return msg+"reached finally";
         }
     }
 }

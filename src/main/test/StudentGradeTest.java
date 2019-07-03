@@ -17,7 +17,7 @@ public class StudentGradeTest {
      obj=null;
     }
     @Test
-    public void testgivenArrayShouldReturnNotBetween1to100Grades()
+    public void testgivenArrayShouldReturnNotBetween1to100Grades()//test case for grade not between 1 to 100
     {
         double array[]= {20,77,102,34,57};
         String result=obj.checkgrade(array);
@@ -25,14 +25,14 @@ public class StudentGradeTest {
     }
 
     @Test
-    public void testgivenArrayShouldReturnPassed()
+    public void testgivenArrayShouldReturnPassed()//test case for passed
     {
         double array[]= {27,73,66,38,52};
         String result=obj.checkgrade(array);
         assertEquals("Passed",result);
     }
     @Test
-    public void testgivenArrayShouldEvaluateDouble()
+    public void testgivenArrayShouldEvaluateDouble()//test case for double values
     {
         double array[]= {27.5,73.4,66.3,38.4,52.3};
         String result=obj.checkgrade(array);

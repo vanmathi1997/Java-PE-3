@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d33b44be-95b6-4237-940b-c0c499b532f0" name="Default Changelist" comment="" />
+    <list default="true" id="d33b44be-95b6-4237-940b-c0c499b532f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Practice-Exercise-3/GenerateExceptionsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Practice-Exercise-3/GenerateExceptionsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ChessBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstAndLastDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstAndLastDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GenerateExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GenerateExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MatrixAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MatrixAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RemoveVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RemoveVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StudentGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StudentGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/ChessBoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/ChessBoardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/ConsecutiveNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/ConsecutiveNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/ExceptionHandlingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/ExceptionHandlingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/FirstAndLastDayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/FirstAndLastDayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/GenerateExceptionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/GenerateExceptionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/MatrixAdditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/MatrixAdditionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/StudentGradeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/StudentGradeTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,99 +29,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RemoveVowels.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/StudentGradeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ChessBoard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/ChessBoardTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/ConsecutiveNumbersTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#778#779#0" expanded="true" />
-                <element signature="e#843#844#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ExceptionHandling.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/ExceptionHandlingTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="21" />
+            <state relative-caret-position="374">
+              <caret line="34" column="81" selection-start-line="34" selection-start-column="81" selection-end-line="34" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,23 +48,77 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/GenerateExceptions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="15">
+              <caret line="1" column="81" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/GenerateExceptionsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MatrixAddition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/GenerateExceptionsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/MatrixAdditionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+            <state relative-caret-position="328">
+              <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StudentGrade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/RemoveVowels.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="35" column="102" selection-start-line="35" selection-start-column="102" selection-end-line="35" selection-end-column="102" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,22 +140,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/ChessBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/test/ChessBoardTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/ConsecutiveNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExceptionHandling.java" />
+        <option value="$PROJECT_DIR$/src/main/test/ExceptionHandlingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FirstAndLastDay.java" />
+        <option value="$PROJECT_DIR$/src/main/test/FirstAndLastDayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GenerateExceptions.java" />
+        <option value="$PROJECT_DIR$/src/main/test/GenerateExceptionsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RemoveVowels.java" />
+        <option value="$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/StudentGrade.java" />
         <option value="$PROJECT_DIR$/src/main/test/StudentGradeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/MatrixAddition.java" />
         <option value="$PROJECT_DIR$/src/main/test/MatrixAdditionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FirstAndLastDay.java" />
-        <option value="$PROJECT_DIR$/src/main/test/FirstAndLastDayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RemoveVowels.java" />
-        <option value="$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ChessBoard.java" />
-        <option value="$PROJECT_DIR$/src/main/test/ChessBoardTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/test/ConsecutiveNumbersTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ExceptionHandling.java" />
-        <option value="$PROJECT_DIR$/src/main/test/ExceptionHandlingTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/GenerateExceptions.java" />
-        <option value="$PROJECT_DIR$/src/main/test/GenerateExceptionsTest.java" />
       </list>
     </option>
   </component>
@@ -184,8 +173,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="330" />
-    <option name="y" value="39" />
+    <option name="x" value="279" />
+    <option name="y" value="27" />
     <option name="width" value="1192" />
     <option name="height" value="833" />
   </component>
@@ -195,6 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,18 +210,25 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Practice-Exercise-3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice-Exercise-3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/hamcrest-all-1.3.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -256,31 +253,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GenerateExceptionsTest">
-    <configuration name="ChessBoardTest.testShouldReturnChessBoardStructure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MatrixAdditionTest.testArrayShouldReturnError">
+    <configuration name="ExceptionHandlingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Practice-Exercise-3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ChessBoardTest" />
-      <option name="METHOD_NAME" value="testShouldReturnChessBoardStructure" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConsecutiveNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Practice-Exercise-3" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConsecutiveNumbersTest" />
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsecutiveNumbersTest.consectest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionHandlingTest.testThrowExceptionForHello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Practice-Exercise-3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConsecutiveNumbersTest" />
-      <option name="METHOD_NAME" value="consectest3" />
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingTest" />
+      <option name="METHOD_NAME" value="testThrowExceptionForHello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandlingTest.testThrowExceptionForWorld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Practice-Exercise-3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingTest" />
+      <option name="METHOD_NAME" value="testThrowExceptionForWorld" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -295,11 +292,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenerateExceptionsTest.NegativeArraySizeExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MatrixAdditionTest.testArrayShouldReturnError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Practice-Exercise-3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GenerateExceptionsTest" />
-      <option name="METHOD_NAME" value="NegativeArraySizeExceptionTest" />
+      <option name="MAIN_CLASS_NAME" value="MatrixAdditionTest" />
+      <option name="METHOD_NAME" value="testArrayShouldReturnError" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -307,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MatrixAdditionTest.testArrayShouldReturnError" />
         <item itemvalue="JUnit.GenerateExceptionsTest" />
-        <item itemvalue="JUnit.GenerateExceptionsTest.NegativeArraySizeExceptionTest" />
-        <item itemvalue="JUnit.ConsecutiveNumbersTest.consectest3" />
-        <item itemvalue="JUnit.ConsecutiveNumbersTest" />
-        <item itemvalue="JUnit.ChessBoardTest.testShouldReturnChessBoardStructure" />
+        <item itemvalue="JUnit.ExceptionHandlingTest.testThrowExceptionForWorld" />
+        <item itemvalue="JUnit.ExceptionHandlingTest.testThrowExceptionForHello" />
+        <item itemvalue="JUnit.ExceptionHandlingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -329,170 +326,81 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RemoveVowelsTest_testgivenStringWithoutVowelShouldReturnSameString - 2019.07.01 at 14h 11m 56s.xml">
-      <configuration name="RemoveVowelsTest.testgivenStringWithoutVowelShouldReturnSameString" configurationId="JUnit" />
+    <history-entry file="ExceptionHandlingTest_testThrowExceptionForHello - 2019.07.03 at 16h 56m 38s.xml">
+      <configuration name="ExceptionHandlingTest.testThrowExceptionForHello" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ChessBoardTest_testprint - 2019.07.01 at 14h 22m 29s.xml">
-      <configuration name="ChessBoardTest.testprint" configurationId="JUnit" />
+    <history-entry file="ExceptionHandlingTest_testThrowExceptionForHello - 2019.07.03 at 16h 57m 38s.xml">
+      <configuration name="ExceptionHandlingTest.testThrowExceptionForHello" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ChessBoardTest_testShouldReturnChessBoardStructure - 2019.07.01 at 14h 23m 12s.xml">
-      <configuration name="ChessBoardTest.testShouldReturnChessBoardStructure" configurationId="JUnit" />
+    <history-entry file="ExceptionHandlingTest_testThrowExceptionForHello - 2019.07.03 at 16h 58m 41s.xml">
+      <configuration name="ExceptionHandlingTest.testThrowExceptionForHello" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsecutiveNumbersTest - 2019.07.01 at 14h 32m 10s.xml">
-      <configuration name="ConsecutiveNumbersTest" configurationId="JUnit" />
+    <history-entry file="ExceptionHandlingTest_testThrowExceptionForHello - 2019.07.03 at 16h 58m 56s.xml">
+      <configuration name="ExceptionHandlingTest.testThrowExceptionForHello" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsecutiveNumbersTest_consectest3 - 2019.07.01 at 14h 32m 40s.xml">
-      <configuration name="ConsecutiveNumbersTest.consectest3" configurationId="JUnit" />
+    <history-entry file="ExceptionHandlingTest_testThrowExceptionForWorld - 2019.07.03 at 16h 59m 08s.xml">
+      <configuration name="ExceptionHandlingTest.testThrowExceptionForWorld" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GenerateExceptionsTest - 2019.07.01 at 14h 58m 00s.xml">
+    <history-entry file="GenerateExceptionsTest - 2019.07.03 at 17h 04m 50s.xml">
       <configuration name="GenerateExceptionsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GenerateExceptionsTest - 2019.07.01 at 15h 14m 27s.xml">
-      <configuration name="GenerateExceptionsTest" configurationId="JUnit" />
+    <history-entry file="MatrixAdditionTest_testArrayShouldReturnError - 2019.07.03 at 17h 16m 33s.xml">
+      <configuration name="MatrixAdditionTest.testArrayShouldReturnError" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GenerateExceptionsTest - 2019.07.01 at 15h 14m 52s.xml">
-      <configuration name="GenerateExceptionsTest" configurationId="JUnit" />
+    <history-entry file="MatrixAdditionTest_testArrayShouldReturnError - 2019.07.03 at 17h 18m 12s.xml">
+      <configuration name="MatrixAdditionTest.testArrayShouldReturnError" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GenerateExceptionsTest - 2019.07.01 at 15h 16m 35s.xml">
-      <configuration name="GenerateExceptionsTest" configurationId="JUnit" />
+    <history-entry file="MatrixAdditionTest_testArrayShouldReturnError - 2019.07.03 at 17h 18m 32s.xml">
+      <configuration name="MatrixAdditionTest.testArrayShouldReturnError" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GenerateExceptionsTest - 2019.07.01 at 15h 17m 22s.xml">
-      <configuration name="GenerateExceptionsTest" configurationId="JUnit" />
+    <history-entry file="MatrixAdditionTest_testArrayShouldReturnError - 2019.07.03 at 17h 18m 56s.xml">
+      <configuration name="MatrixAdditionTest.testArrayShouldReturnError" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="330" y="39" width="1192" height="833" extended-state="0" />
+    <frame x="279" y="27" width="1192" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16055846" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33682373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.328125" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3494318" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" weight="0.32884097" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.328125" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32884097" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/StudentGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/StudentGradeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="7" selection-start-line="7" selection-end-line="39" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MatrixAddition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/MatrixAdditionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstAndLastDay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/FirstAndLastDayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RemoveVowels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ChessBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        <state relative-caret-position="30">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/ChessBoardTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="238">
+          <caret line="44" column="59" selection-start-line="44" selection-start-column="59" selection-end-line="44" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -501,36 +409,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        <state relative-caret-position="285">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/ConsecutiveNumbersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+        <state relative-caret-position="389">
+          <caret line="30" column="95" selection-start-line="30" selection-start-column="95" selection-end-line="30" selection-end-column="95" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ExceptionHandling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/ExceptionHandlingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="21" />
+        <state relative-caret-position="223">
+          <caret line="30" column="74" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstAndLastDay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/FirstAndLastDayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="83" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -539,21 +465,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/GenerateExceptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="15">
+          <caret line="1" column="81" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/GenerateExceptionsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        <state relative-caret-position="268">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RemoveVowels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="35" column="102" selection-start-line="35" selection-start-column="102" selection-end-line="35" selection-end-column="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StudentGrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/StudentGradeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="81" selection-start-line="34" selection-start-column="81" selection-end-line="34" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MatrixAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/MatrixAdditionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
